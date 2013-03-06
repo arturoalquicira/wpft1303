@@ -29,10 +29,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="day2.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="50" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="0" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.9214876">
+            <state line="35" column="63" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.55509645">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -51,6 +60,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/day2.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
@@ -171,6 +181,13 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -298,9 +315,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="50" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.9214876">
+        <state line="35" column="63" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.55509645">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

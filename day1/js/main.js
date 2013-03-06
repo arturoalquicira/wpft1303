@@ -33,7 +33,7 @@ var numberCakes = 1;
 console.log("One day she cooked" + numberCakes + "for a birthday party");
 console.log("The boy took without permission one of the cakes");
 console.log("Her grandma got mad with him");
-console.log("So she told him that if wanted to have a cake he had to earn it");
+console.log('So she told him \"If you want to have a cake you\'ve to earn it"\ ');
 console.log("He had to wash the dishes to get a cake, and for every 5 plates he washed he got a cake and a glass of milk");
 var numberOfPlates = 15;
 var valueOfCakes = 5;
