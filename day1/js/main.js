@@ -38,16 +38,30 @@ console.log("He had to wash the dishes to get a cake, and for every 5 plates he 
 var numberOfPlates = 15;
 var valueOfCakes = 5;
 var totalAmount = numberOfPlates / valueOfCakes;
+var ownACar = true;
+var skinny = true;
 console.log("At the end he got" + totalAmount + "cakes");
 console.log("How many plates did he washed?");
 
-if (totalamount > 3)
+if (totalAmount > 3)
 {
     console.log("You are such a fat boy!");
+    if (ownACar) {
+    console.log("Go to the Gym");
+    }else {
+    console.log("Take the dog for a walk")
+}
 }
 else
 {
-console.log("Good boy!");
+    if (skinny) {
+    console.log("Good boy!");
+    } else {
+    console.log("You can have an extra cake");
+
+}
+
+
 }
 
 
