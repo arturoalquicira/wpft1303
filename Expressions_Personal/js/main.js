@@ -1,4 +1,4 @@
-const monthlyIncome = 2000;
+const monthlyIncome = 2000; 
 console.log("This month I had in my bank account $" + monthlyIncome + " dlls."); // I am using an expression
 const billRent = 890;
 const billInternet = 62;
