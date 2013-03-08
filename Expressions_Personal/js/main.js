@@ -14,7 +14,8 @@ var depositGrandma = 100; // Money my grandma gave me
 console.log("The next month I received a deposit of $" + depositGrandma + " from my grandma because of my birthday."); // Add another value to the current balance
 var totalAmount = (monthlyIncome - billInternet - billRent - ((gatorades * priceGatorade) + (snickers * priceSnickers))); // Make the calculation of my current balance as one variable.
 var priceSkateboard = prompt("What is the price of a skate board?"); // Ask the user the price of a skateboard
-console.log("If I have been saving for a skateboard that costs $" + priceSkateboard + " and I")
+console.log("If I have been saving for a skateboard that costs $" + priceSkateboard + " and I have on my bank account $" + depositGrandma + totalAmount);
+
 
 
 
