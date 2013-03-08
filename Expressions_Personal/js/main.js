@@ -11,7 +11,7 @@ var snickers = prompt("How many snickers?"); // Ask the user a random number of 
 console.log("The first week I bought " + gatorades + " Gatorades and " + snickers + " Snickers."); // Giving info using the values of the prompts
 console.log("So my current balance was $" +  (monthlyIncome - billInternet - billRent - ((gatorades * priceGatorade) + (snickers * priceSnickers))) + "."); // Show the current balance, using variables and constants.
 var depositGrandma = 100; // Money my grandma gave me
-console.log("The next I received a deposit of $" + deposit + "of my grandma because of my birthday.");
+console.log("The next month I received a deposit of $" + deposit + " from my grandma because of my birthday."); //
 
 
 
