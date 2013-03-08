@@ -9,7 +9,7 @@ var gatorades = prompt("How many Gatorades?"); // Ask the user a random numer of
 var priceSnickers = 2; // The price of each snickers
 var snickers = prompt("How many snickers?"); // Ask the user a random number of gatorades
 console.log("The first week I bought " + gatorades + " Gatorades and " + snickers + " Snickers."); // Giving info using the values of the prompts
-console.log("So my current balance was " +  (monthlyIncome - ((gatorades * priceGatorade) + (snickers * priceSnickers)))); //
+console.log("So my current balance was " +  (monthlyIncome - billInternet - billRent - ((gatorades * priceGatorade) + (snickers * priceSnickers)))); //
 
 
 
