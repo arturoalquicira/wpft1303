@@ -5,3 +5,4 @@ const billInternet = 62; // The bill internet is constant
 console.log("Every month I have to pay the rent $" + billRent + " and internet services for $" + billInternet); // Giving information using rent and internet constants
 console.log("But this month I spent my money in different things besides my regular bills."); // String
 
+
