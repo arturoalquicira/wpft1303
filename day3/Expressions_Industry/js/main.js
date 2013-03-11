@@ -5,7 +5,10 @@ console.log("Part of this task will be to modify the code and make some upgrades
 const deadline = 5;
 console.log("Your supervisor told you that this task cannot take you more than " + deadline + " hours to complete"); // Add a constant to the information
 var timeperpic = 2; // Add a time variable
-var timeforlunch = prompt("How much time you spend on your lunch time?"); // Ask uer for a variable of time
+var timeforlunch = prompt("How much time you spend on your lunch time? (Use decimals for minutes)"); // Ask uer for a variable of time
+console.log("But you have realized that every photo you modify takes you 2 mins."); // String
+console.log("If you spend " + timeforlunch + " hours on having your lunch, do you think you will finish your work on time?");
+
 
 
 
