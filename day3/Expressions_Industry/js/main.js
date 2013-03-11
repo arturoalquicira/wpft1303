@@ -4,5 +4,8 @@ var numberofPhotos = 200;// Variable for number of photos to modify
 console.log("Part of this task will be to modify the code and make some upgrades of " + numberofPhotos + " photos."); // Giving information with a variable
 const deadline = 5;
 console.log("Your supervisor told you that this task cannot take you more than " + deadline + " hours to complete"); // Add a constant to the information
+var timeperpic = 2; // Add a time variable
+var timeforlunch = prompt("How much time you spend on your lunch time?"); // Ask uer for a variable of time
+
 
 
