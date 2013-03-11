@@ -7,7 +7,9 @@ console.log("Your supervisor told you that this task cannot take you more than "
 var timeperpic = 2; // Add a time variable
 var timeforlunch = prompt("How much time you spend on your lunch time? (Use decimals for minutes)"); // Ask uer for a variable of time
 console.log("But you have realized that every photo you modify takes you 2 mins."); // String
-console.log("If you spend " + timeforlunch + " hours on having your lunch, do you think you will finish your work on time?");
+console.log("If you spend " + timeforlunch + " hours on having your lunch, do you think you will finish your work on time?"); // Add the value of the prompt
+var totalAmountOfTime = ((numberofPhotos * timeperpic) / 60) + timeforlunch;
+
 
 
 
