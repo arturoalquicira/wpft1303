@@ -9,11 +9,11 @@ var timeForLunch = prompt("How many hours you spend on having your lunch?"); // 
 console.log("But you have realized that every photo you modify takes you 2 mins."); // String
 console.log("If you spend " + timeForLunch + " hours/minutes on having your lunch, do you think you will finish your work on time?"); // Add the value of the prompt
 var totalAmountOfTime = ((numberofPhotos * timeperpic) + timeForLunch); // Calculate the time it will take for you to finish your work
-if (totalAmountOfTime  > 6)
+if (totalAmountOfTime  > 6) // Conditional depending on the result
 {
-    console.log("The answer is NO!!.")
+    console.log("The answer is NO!!."); // String
 } else {
-    console.log("The answer is YES!!")
+    console.log("The answer is YES!!"); // String
 }
 
 
