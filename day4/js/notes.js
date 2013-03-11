@@ -11,7 +11,8 @@ var setToKill = (setting == "kill");
 
 if (atLeast3Phasers || setToKill) {
     console.log("It's dead, Jim");
-} else if (setting == "stun)") {
+} else if (setting == "stun") {
+    console.log("Enough");
 } else {
     console.log("Run faster than the red shirt!");
 
