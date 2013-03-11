@@ -9,6 +9,8 @@ var timeforlunch = prompt("How much time you spend on your lunch time? (Use deci
 console.log("But you have realized that every photo you modify takes you 2 mins."); // String
 console.log("If you spend " + timeforlunch + " hours on having your lunch, do you think you will finish your work on time?"); // Add the value of the prompt
 var totalAmountOfTime = ((numberofPhotos * timeperpic) / 60) + timeforlunch; // Calculate the time it will take for you to finish your work
+console.log(totalAmountOfTime);
+
 
 
 
