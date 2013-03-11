@@ -1,10 +1,17 @@
 console.log("These are my notes");
 
-var phasers = parseInt(prompt("How many phasers?");
+var phasers = parseInt(prompt("How many phasers?"));
 var setting = "stun";
 
-if ((phasers > 3) || (setting == "kill=")) {
+console.log("phasers:" + phasers);
+console.log("setting:" + setting);
+
+var atLeast3Phasers = (phasers > 3);
+var setToKill = (setting == "kill");
+
+if (atLeast3Phasers || setToKill) {
     console.log("It's dead, Jim");
+} else if (setting == "stun)") {
 } else {
     console.log("Run faster than the red shirt!");
 
