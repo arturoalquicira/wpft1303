@@ -35,33 +35,33 @@ console.log("The boy took without permission one of the cakes");
 console.log("Her grandma got mad with him");
 console.log('So she told him \"If you want to have a cake you\'ve to earn it\"');
 console.log("He had to wash the dishes to get a cake, and for every 5 plates he washed he got a cake and a glass of milk");
-var numberOfPlates = 15;
-var valueOfCakes = 5;
-var totalAmount = numberOfPlates / valueOfCakes;
-var ownACar = true;
-var skinny = true;
-console.log("At the end he got" + totalAmount + "cakes");
+var NumberOfPlates = 15;
+var ValueOfCakes = 5;
+var TotalAmount = NumberOfPlates / ValueOfCakes;
+var OwnACar = true;
+var Skinny = true;
+console.log("At the end he got" + TotalAmount + "cakes");
 console.log("How many plates did he washed?");
 
-if (totalAmount > 3)
-{
+if (TotalAmount > 3) {
+
     console.log("You are such a fat boy!");
-    if (ownACar) {
+    if (OwnACar) {
     console.log("Go to the Gym");
-    }else {
-    console.log("Take the dog for a walk")
-}
-}
-else
-{
-    if (skinny) {
-    console.log("Good boy!");
     } else {
+    console.log("Take the dog for a walk.")
+}
+} else {
+    if (Skinny) {
+    console.log("Good boy!");
+
+    } else {
+
     console.log("You can have an extra cake");
-
+    }
 }
 
 
-}
+
 
 
