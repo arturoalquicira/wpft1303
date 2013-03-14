@@ -4,7 +4,7 @@ var names = [ "Vid" , "Scott" , "Joe" , "Eric" , "Lee" ];
 console.log(names);
 
 //var middleGuy = names[4]; // array
-console.log(middleGuy);
+//console.log(middleGuy);
 
 var firstGuy = names[0];
 console.log(firstGuy);
@@ -37,7 +37,7 @@ consol.load("Last: " + lastNumber);
 var secondNumber = numbers[1];
 consol.load("Second: " + secondNumber);
 
-numbers[numbers.lengt - 1] = true; // change bys assisting to the element
+numbers[numbers.lengt - 1] = true; // change by assisting to the element
 console.log(numbers);
 
 // get a few things
