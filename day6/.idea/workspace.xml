@@ -23,7 +23,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="7" selection-start="121" selection-end="121" vertical-scroll-proportion="-8.36">
+            <state line="11" column="7" selection-start="122" selection-end="122" vertical-scroll-proportion="-8.36">
               <folding />
             </state>
           </provider>
@@ -40,10 +40,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="euler4.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="euler4.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euler4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="0.18319559">
+            <state line="7" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="objects.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/objects.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="0" selection-start="786" selection-end="786" vertical-scroll-proportion="0.08402204">
               <folding />
             </state>
           </provider>
@@ -60,8 +69,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/euler.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/euler4.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/objects.js" />
       </list>
     </option>
   </component>
@@ -218,16 +228,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/euler4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="121" selection-end="121" vertical-scroll-proportion="-8.36">
+        <state line="7" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/euler4.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="65" selection-start="122" selection-end="122" vertical-scroll-proportion="0.18319559">
+        <state line="11" column="7" selection-start="122" selection-end="122" vertical-scroll-proportion="-8.36">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="786" selection-end="786" vertical-scroll-proportion="0.08402204">
           <folding />
         </state>
       </provider>
