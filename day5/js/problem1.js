@@ -20,22 +20,19 @@ var a = 1;
 var b = 2;
 var c = 0;
 var total2 = 0;
-
+var evenFibs = [];
 while (a < max){
     c = a + b;
-    if ((c % 2 == 0) && (c < max)) {
-        total2 += c;
-    }
-
-    a = b + c;
     if ((a % 2 == 0) && (a < max)) {
         total2 += a;
-   }
-    b = a + c;
-    if ((b % 2 == 0) && (b < max)) {
-        total2 += b;
+        evenFibs.push(a);
     }
+    c = a + b;
+    a = b;
+    b = c;
 
 }
-
 console.log(total2);
+console.log(evenFibs);
+
+
