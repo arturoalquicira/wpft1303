@@ -21,5 +21,3 @@ while (!foundIt) { // keep looking until we find the right number
 
 console.log(number);
 
-
-
