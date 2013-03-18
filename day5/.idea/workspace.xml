@@ -20,22 +20,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.16262482">
+            <state line="6" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="-4.56">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loops.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="loops.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/loops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="0" selection-start="1985" selection-end="1985" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="83" column="0" selection-start="1985" selection-end="1985" vertical-scroll-proportion="0.0261708">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,8 +148,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -268,9 +266,7 @@
     <entry file="file://$PROJECT_DIR$/js/loops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -298,9 +294,7 @@
     <entry file="file://$PROJECT_DIR$/js/loops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -328,9 +322,7 @@
     <entry file="file://$PROJECT_DIR$/js/loops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -348,19 +340,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+        <state line="6" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="-4.56">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/loops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="1985" selection-end="1985" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -371,9 +354,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.16262482">
+        <state line="7" column="0" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="0" selection-start="1985" selection-end="1985" vertical-scroll-proportion="0.0261708">
           <folding />
         </state>
       </provider>
