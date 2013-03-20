@@ -23,7 +23,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day8/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="32" selection-start="99" selection-end="99" vertical-scroll-proportion="-6.08">
+            <state line="8" column="42" selection-start="109" selection-end="109" vertical-scroll-proportion="-6.08">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionsWorkSheet.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day8/FunctionsWorkSheet.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,9 +76,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/day8/Problem1.js" />
-        <option value="$PROJECT_DIR$/day8/index.html" />
         <option value="$PROJECT_DIR$/day8/Functions.js" />
         <option value="$PROJECT_DIR$/day8/Problem2.js" />
+        <option value="$PROJECT_DIR$/day8/Functions Work Sheet.js" />
+        <option value="$PROJECT_DIR$/day8/index.html" />
+        <option value="$PROJECT_DIR$/day8/FunctionsWorkSheet.js" />
       </list>
     </option>
   </component>
@@ -258,7 +269,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day8/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="32" selection-start="99" selection-end="99" vertical-scroll-proportion="-6.08">
+        <state line="8" column="42" selection-start="109" selection-end="109" vertical-scroll-proportion="-6.08">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/Functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -270,9 +288,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day8/Functions.js">
+    <entry file="file://$PROJECT_DIR$/day8/FunctionsWorkSheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
