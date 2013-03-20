@@ -33,7 +33,7 @@ console.log("The factors of " + 2520 + " are " , factorsOf2520);
 //  a. Parameters are variables that the function must have to work
 //  b. Arguments are the values given to functions that become the parameters
 // 3. Functions have a block of code that runs when they are CALLED (which can be as simple or as complex you need to be)
-// 4. Functions may return a value that takes the place of where the function was CALLED
+// 4. Functions may RETURN a value that takes the place of where the function was CALLED
 //  a. We call functions with parentheses: ()
 // 5. Functions provide ENCAPSULATION, which means:
 //    the code outside doesn't care about the code inside

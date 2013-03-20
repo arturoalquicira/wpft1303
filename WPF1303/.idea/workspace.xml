@@ -32,7 +32,7 @@
       <file leaf-file-name="Functions.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day8/Functions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="0" selection-start="1991" selection-end="1991" vertical-scroll-proportion="0.0">
+            <state line="49" column="0" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -50,7 +50,7 @@
       <file leaf-file-name="Problem2.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day8/Problem2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="88" column="41" selection-start="2684" selection-end="2684" vertical-scroll-proportion="0.607438">
               <folding />
             </state>
           </provider>
@@ -66,9 +66,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/day8/Functions.js" />
         <option value="$PROJECT_DIR$/day8/Problem1.js" />
         <option value="$PROJECT_DIR$/day8/index.html" />
+        <option value="$PROJECT_DIR$/day8/Functions.js" />
         <option value="$PROJECT_DIR$/day8/Problem2.js" />
       </list>
     </option>
@@ -256,9 +256,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day8/Functions.js">
+    <entry file="file://$PROJECT_DIR$/day8/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1991" selection-end="1991" vertical-scroll-proportion="0.0">
+        <state line="8" column="32" selection-start="99" selection-end="99" vertical-scroll-proportion="-6.08">
           <folding />
         </state>
       </provider>
@@ -270,16 +270,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day8/index.html">
+    <entry file="file://$PROJECT_DIR$/day8/Functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="32" selection-start="99" selection-end="99" vertical-scroll-proportion="-6.08">
+        <state line="49" column="0" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day8/Problem2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="88" column="41" selection-start="2684" selection-end="2684" vertical-scroll-proportion="0.607438">
           <folding />
         </state>
       </provider>
