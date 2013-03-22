@@ -1,0 +1,71 @@
+
+
+var compareTwo = function (a, b) {
+    if (a > b) { return 1;}
+    if (a < b) { return -1;}
+    return 0;
+};
+
+console.log("compare: " + compareTwo(4,6));
+
+
+var prices = [ 2.99, 2.49, 3.09, 9.99, 0.99];
+console.log("prices: ", prices);
+var  sortedPrices = prices.sort(compareTwo);
+console.log("sorted prices:", sortedPrices);
+
+var sortByKey = function (keyName, objectA, objectB) {
+    if (objectA[keyName] > objectB[keyName]) {return 1;}
+    if (objectA[keyName] < objectB[keyName]) {return -1;}
+    return 0
+};
+
+var sortByName = function (objectA, objectB) {
+    return sortByKey("name", objectA, objectB);
+};
+
+var sortByPrice = function (objectA, objectB) {
+    return sortByKey("price", objectA, objectB);
+};
+
+var sortByAisle = function (objectA, objectB) {
+    return sortByKey("aisle", objectA, objectB);
+};
+
+var sortGenerator = function (keyName) {
+    console.log("Generating sort for " + keyName);
+    return function (objectA, objectB) {
+        var valueA = objectA[keyName];
+        var valueB = objectB[keyName];
+        console.log(("Comparing " + valueA + " to " + valueB));
+        if (valueA > valueB) { return 1; }
+        if (valueA < valueB) { return -1; }
+        return 0;
+    }
+};
+
+var groceries = [
+    { "name" : "eggs",   "price" : 2.50, "aisle" : 2},
+    { "name" : "milk",   "price" : 4.00, "aisle" : 1},
+    { "name" : "butter", "price" : 0.99, "aisle" : 13}
+];
+//console.log("sorted groceries: " , groceries.sort());
+//console.log("sorted groceries: ", groceries.sort(sortByPrice));
+
+console.log(groceries);
+//console.log("sorted groceries by name: ", groceries.sort(sortByName));
+////console.log("sorted groceries by aisle: ", groceries.sort(sortByAisle));
+//console.log("sorted groceries by price: ", groceries.sort(sortByPrice));
+
+console.log("sorted groceries by price: ", groceries.sort(sortGenerator("price")));
+console.log("sorted groceries by name: ", groceries.sort(sortGenerator("name")));
+
+
+
+
+
+
+
+
+
+
