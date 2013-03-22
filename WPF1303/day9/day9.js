@@ -62,14 +62,23 @@ console.log(groceries);
 console.log("sorted groceries by price: ", groceries.sort(sortGenerator("price")));
 console.log("sorted groceries by name: ", groceries.sort(sortGenerator("name")));
 
+//var cheapGroceries = function (groceries) {
+//  var cheap = [];
+//    for (var itemNumber = 0; itemNumber < groceries.length; itemNumber++) {
+//        var item = groceries[itemNumber];
+//        if (item["price"] < 1) {
+//            cheap.push(item);
+//        }
+//    }
+//    return cheap;
 var cheapGroceries = function (groceries) {
-  var cheap = [];
-    for (var itemNumber = 0; itemNumber < groceries.length; itemNumber++) {
-        var item = groceries[itemNumber];
+    var cheap = [];
+    groceries.forEach(function(item) {
+
         if (item["price"] < 1) {
             cheap.push(item);
         }
-    }
+    });
     return cheap;
 };
 console.log("cheap groceries" , cheapGroceries(groceries));
