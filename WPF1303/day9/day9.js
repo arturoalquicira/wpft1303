@@ -83,8 +83,33 @@ var cheapGroceries = function (groceries) {
 };
 console.log("cheap groceries" , cheapGroceries(groceries));
 
+var expensiveGroceries = function (groceries) {
+    var expensive = [];
+    groceries.forEach(function(item) {
+    if(item["name"] > 1) {
+        expensive.push(item);
+    }
+});
+    return expensive;
+};
+console.log("expensive groceries" , expensiveGroceries(groceries));
 
+groceries.forEach(function(item, itemNumber) {
+    if (itemNumber % 2 !== 0) {
+console.log(item["name"]);
+    }
+});
 
+var oddGroceries = groceries.filter(function(item, itemNumber){
+    return (itemNumber % 2 !== 0);
+});
+console.log("odd groceries", oddGroceries);
+
+var oddGroceryNames = oddGroceries.map(function(item) {
+    item.price *= 1.07;
+    return item;
+});
+console.log(oddGroceryNames);
 
 
 
