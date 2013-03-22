@@ -47,7 +47,9 @@ var sortGenerator = function (keyName) {
 var groceries = [
     { "name" : "eggs",   "price" : 2.50, "aisle" : 2},
     { "name" : "milk",   "price" : 4.00, "aisle" : 1},
-    { "name" : "butter", "price" : 0.99, "aisle" : 13}
+    { "name" : "butter", "price" : 0.99, "aisle" : 13},
+    { "name" : "gumball",   "price" : 0.74, "aisle" : 1},
+    { "name" : "ringPop",   "price" : 0.25, "aisle" : 1}
 ];
 //console.log("sorted groceries: " , groceries.sort());
 //console.log("sorted groceries: ", groceries.sort(sortByPrice));
@@ -60,7 +62,17 @@ console.log(groceries);
 console.log("sorted groceries by price: ", groceries.sort(sortGenerator("price")));
 console.log("sorted groceries by name: ", groceries.sort(sortGenerator("name")));
 
-
+var cheapGroceries = function (groceries) {
+  var cheap = [];
+    for (var itemNumber = 0; itemNumber < groceries.length; itemNumber++) {
+        var item = groceries[itemNumber];
+        if (item["price"] < 1) {
+            cheap.push(item);
+        }
+    }
+    return cheap;
+};
+console.log("cheap groceries" , cheapGroceries(groceries));
 
 
 
