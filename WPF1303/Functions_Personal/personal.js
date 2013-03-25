@@ -4,4 +4,4 @@ console.log("Arturo has been riding his bike last week to make some exercise. " 
 console.log("Is he making it worth?"); // string
 var distance = function( time, speed) { // function with two parameters
     var answer = (parseInt(time) * speed); // calculate the values
-    if ( answer >= 15 ) { 
+    if ( answer >= 15 ) { // if statement 
