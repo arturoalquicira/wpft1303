@@ -6,4 +6,5 @@ var distance = function( time, speed) { // function with two parameters
     var answer = (parseInt(time) * speed); // calculate the values
     if ( answer >= 15 ) { // if statement
         console.log("He is working out!"); // print out a string
-    } else { // add an else statement 
+    } else { // add an else statement
+        console.log("He has been such a lazy guy!");
