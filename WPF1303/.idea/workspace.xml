@@ -23,7 +23,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
+            <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.52">
               <folding />
             </state>
           </provider>
@@ -32,7 +32,7 @@
       <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Industry/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="43" selection-start="75" selection-end="75" vertical-scroll-proportion="-0.12534435">
+            <state line="8" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="0.2093664">
               <folding />
             </state>
           </provider>
@@ -334,13 +334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day9/day9.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="100" column="3" selection-start="2997" selection-end="2997" vertical-scroll-proportion="0.0">
@@ -355,9 +348,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Industry/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="43" selection-start="75" selection-end="75" vertical-scroll-proportion="-0.12534435">
+        <state line="8" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="0.2093664">
           <folding />
         </state>
       </provider>

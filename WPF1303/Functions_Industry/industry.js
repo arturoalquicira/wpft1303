@@ -29,7 +29,7 @@ var totalAmount = function(priceQuantity, priceSize, priceTopping){
             console.log("We do not have that topping, try again!");
         }
 
-    var answer = (parseInt(priceQuantity) * (priceSize + priceTopping));
+    return answer = (parseInt(priceQuantity) * (price1 + price2));
 };
 var total = totalAmount(priceQuantity,price1,price2);
 console.log("Your total is: $" + total);
