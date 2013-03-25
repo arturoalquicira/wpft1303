@@ -111,6 +111,12 @@ var oddGroceryNames = oddGroceries.map(function(item) {
 });
 console.log(oddGroceryNames);
 
+var carlosIsAwesome = false;
+var greeting = "Is Carlos awesome? " + ((carlosIsAwesome) ? "Carlos is awesome" : "Carlos is awful");
+
+console.log(greeting);
+
+
 
 
 
