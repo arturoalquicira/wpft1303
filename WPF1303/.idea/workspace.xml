@@ -23,7 +23,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="-2.28">
+            <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -32,7 +32,7 @@
       <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Industry/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="59" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0523416">
+            <state line="2" column="43" selection-start="75" selection-end="75" vertical-scroll-proportion="-0.12534435">
               <folding />
             </state>
           </provider>
@@ -112,6 +112,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,7 +175,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,30 +309,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day8/Functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.8429752">
-          <folding />
-        </state>
+        <state line="49" column="0" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.8429752" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day8/Problem1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="728" selection-end="728" vertical-scroll-proportion="0.5495868">
-          <folding />
-        </state>
+        <state line="21" column="0" selection-start="728" selection-end="728" vertical-scroll-proportion="0.5495868" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Industry/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Personal/js/main.js">
@@ -344,7 +336,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="-2.28">
+        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -365,7 +357,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Industry/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="59" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0523416">
+        <state line="2" column="43" selection-start="75" selection-end="75" vertical-scroll-proportion="-0.12534435">
           <folding />
         </state>
       </provider>

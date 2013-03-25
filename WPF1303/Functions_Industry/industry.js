@@ -1,6 +1,6 @@
 var price1 = 0;
 var price2 = 0;
-var priceQuantity = prompt("How many you want to order ?");
+var priceQuantity = prompt("How many pizzas you want to order ?");
 var size = prompt("What size do you prefer? (small, medium or large)");
 var topping = prompt("What topping you prefer? (pepperoni, salami or italian sausage)");
 var totalAmount = function(priceQuantity, priceSize, priceTopping){
