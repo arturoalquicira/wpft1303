@@ -5,4 +5,4 @@ console.log("Is he making it worth?"); // string
 var distance = function( time, speed) { // function with two parameters
     var answer = (parseInt(time) * speed); // calculate the values
     if ( answer >= 15 ) { // if statement
-        console.log("He is working out!");
+        console.log("He is working out!"); // print out a string
