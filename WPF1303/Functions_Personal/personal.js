@@ -10,4 +10,4 @@ var distance = function( time, speed) { // function with two parameters
         console.log("He has been such a lazy guy!"); // print out the else statement
     } // else
 }; // function
-
+distance(time,6);
