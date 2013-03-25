@@ -7,4 +7,4 @@ var distance = function( time, speed) { // function with two parameters
     if ( answer >= 15 ) { // if statement
         console.log("He is working out!"); // print out a string
     } else { // add an else statement
-        console.log("He has been such a lazy guy!");
+        console.log("He has been such a lazy guy!"); // print out the else statement 
