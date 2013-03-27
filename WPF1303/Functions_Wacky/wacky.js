@@ -21,3 +21,8 @@ var tennis = [
     }
 ];
 
+var newTennis = function(tennis){
+    for (var tennisNumber = 0; tennisNumber < tennis.length; tennisNumber++){
+
+    }
+}
