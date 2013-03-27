@@ -24,11 +24,12 @@ var tennis = [
         "price" : 24
     }
 ];
-
+var howmuch = prompt("");
+var whatSize = prompt("");
 var newTennis = function(tennis){
     for (var tennisNumber = 0; tennisNumber < tennis.length; tennisNumber++){
         var modelOfTennis = tennis[tennisNumber];
-        if
+        if ((modelOfTennis["size"] <=10 ) && (modelOfTennis["price"] <=)
 
     }
 }
