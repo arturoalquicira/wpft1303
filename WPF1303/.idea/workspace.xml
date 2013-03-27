@@ -20,19 +20,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wacky.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="wacky.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions_Wacky/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="1" selection-start="496" selection-end="496" vertical-scroll-proportion="0.7066116">
+            <state line="30" column="10" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day10.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="day10.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day10/day10.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="21" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
+            <state line="15" column="21" selection-start="292" selection-end="292" vertical-scroll-proportion="0.39256197">
               <folding />
             </state>
           </provider>
@@ -514,16 +514,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day10/day10.js">
+    <entry file="file://$PROJECT_DIR$/Functions_Wacky/wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
+        <state line="30" column="10" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Wacky/wacky.js">
+    <entry file="file://$PROJECT_DIR$/day10/day10.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="1" selection-start="496" selection-end="496" vertical-scroll-proportion="0.7066116">
+        <state line="15" column="21" selection-start="292" selection-end="292" vertical-scroll-proportion="0.39256197">
           <folding />
         </state>
       </provider>
