@@ -7,33 +7,31 @@ var totalAmount = function(priceQuantity, priceSize, priceTopping){
 
 
 
-        if (size == "small"){
-        price1 = 6.50;
+    if (size == "small"){
+        priceSize = 6.50;
     } else if (size == "medium"){
-        price1 = 8.50;
-        } else if (size == "large"){
-            price1 = 10.50;
-        } else {
-            console.log("We do not have that size, try again!");
-        }
+        priceSize = 8.50;
+    } else if (size == "large"){
+        priceSize = 10.50;
+    } else {
+        console.log("We do not have that size, try again!");
+    }
 
 
 
-        if (topping == "pepperoni"){
-            price2 = 2;
-        } else if (topping == "salami"){
-            price2 = 2;
-        } else if (topping == "italian sausage"){
-            price2 = 2;
-        } else {
-            console.log("We do not have that topping, try again!");
-        }
+    if (topping == "pepperoni"){
+        priceTopping = 2;
+    } else if (topping == "salami"){
+        priceTopping = 2;
+    } else if (topping == "italian sausage"){
+        priceTopping = 2;
+    } else {
+        console.log("We do not have that topping, try again!");
+    }
 
-    return answer = (parseInt(priceQuantity) * (price1 + price2));
+    return answer = (parseInt(priceQuantity) * (priceSize + priceTopping));
 };
-var total = totalAmount(priceQuantity,price1,price2);
+var total = totalAmount(priceQuantity,size, topping);
 console.log("Your total is: $" + total);
-
-
 
 
