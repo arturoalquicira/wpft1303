@@ -37,7 +37,7 @@ console.log('------ numbers ----------');
 
 
 // arrays: (definition, indexing, getter/setter)
-console.log('------Arrays ----------');
+console.log('------ arrays ----------');
 
 
 // conditionals: (definition, indexing, math, if, if-else, if-else if, ternary)
